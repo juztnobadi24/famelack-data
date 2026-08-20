@@ -9540,6 +9540,34 @@
     "country": "nz",
     "isGeoBlocked": false
   },
+   {
+    "nanoid": "OneRadioXmas",
+    "name": "One Radio Christmas",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/p29uvzkazy8uv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OneRadioMNL",
+    "name": "One Radio Manila",
+    "sources": {
+      "streams": [
+        "https://stream-155.zeno.fm/e9d0qhpxmv8uv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "x0140UoSpde2qF",
     "name": "Orthodox Radio",
