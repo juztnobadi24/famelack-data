@@ -5231,6 +5231,20 @@
     "country": "us",
     "isGeoBlocked": false
   },
+   {
+    "nanoid": "FlameGospel1",
+    "name": "Flame Gospel Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/1ruppedsd6quv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "ZkFfes0ptk7DiT",
     "name": "FM",
