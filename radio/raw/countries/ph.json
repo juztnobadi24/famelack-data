@@ -3246,5 +3246,114 @@
     ],
     "country": "ph",
     "isGeoBlocked": false
+  },
+
+
+
+
+
+ {
+    "nanoid": "FlameGospel1",
+    "name": "Flame Gospel Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/1ruppedsd6quv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Station1Radio",
+    "name": "Station 1 Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6a9w4h8xqg0uv?aw_0_req_lsid=376d510357a82bad906197fa7ba84f93"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LoveRadio907",
+    "name": "90.7 Love Radio",
+    "sources": {
+      "streams": [
+        "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MonsterRX931",
+    "name": "93.1 MONSTER RX",
+    "sources": {
+      "streams": [
+        "https://in-icecast.eradioportal.com:8443/monsterrrx"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EnergyFM947",
+    "name": "94.7 Energy FM Cebu",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/4oa5m3ffwutuv?dyn-uid=4953455941537461585&an-uid=6788999058307340397&dot-uid=0c6f2204002afaac5e3f41c4&amb-uid=8063733765431834548&dbm-uid=CAESEJoN6FTvjvF3Bvl0e_kDWTg&aw_0_req_lsid=b60d41b87dd35514d9cf949f42a559c6"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EasyRock963",
+    "name": "96.3 Easy Rock",
+    "sources": {
+      "streams": [
+        "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DreamstarTV",
+    "name": "DREAMSTAR TELERADIO",
+    "sources": {
+      "streams": [
+        "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
   }
+
+  
 ]
