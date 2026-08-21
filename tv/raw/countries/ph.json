@@ -119,6 +119,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CinemaOneGlobal",
+    "name": "Cinema One Global",
+    "sources": {
+      "streams": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CinemoGlobal",
+    "name": "Cinemo Global",
+    "sources": {
+      "streams": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "k6kILJ1P88D8yy",
     "name": "CLTV 36",
     "sources": {
@@ -981,4 +1011,5 @@
     "country": "ph",
     "isGeoBlocked": false
   }
+  
 ]
