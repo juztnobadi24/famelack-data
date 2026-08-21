@@ -88,6 +88,21 @@
     "country": "ph",
     "isGeoBlocked": false
   },
+   {
+    "nanoid": "BigscreenTV",
+    "name": "BIGSCREEN TV",
+    "sources": {
+      "streams": [
+        "https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "jJ5KY3frn8Mets",
     "name": "Bilyonaryo News Channel",
@@ -233,6 +248,21 @@
     },
     "languages": [
       "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+   {
+    "nanoid": "EpicOneTV",
+    "name": "EPIC ONE TV",
+    "sources": {
+      "streams": [
+        "https://epiconetv.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
     ],
     "country": "ph",
     "isGeoBlocked": false
@@ -440,6 +470,21 @@
     "languages": [
       "eng",
       "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JPVTV",
+    "name": "JPV TV",
+    "sources": {
+      "streams": [
+        "https://183.bozztv.com/giatv/giatv-jpvtvph/jpvtvph/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
     ],
     "country": "ph",
     "isGeoBlocked": false
@@ -723,6 +768,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SMMCTV",
+    "name": "SMMC TV",
+    "sources": {
+      "streams": [
+        "https://startelevisionmmcdi.sanmateocable1.workers.dev/smmctv/alltv-master/live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2gkarGO4fauZPH",
     "name": "SMNI",
     "sources": {
@@ -965,7 +1025,68 @@
     ],
     "country": "ph",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3RSTV",
+    "name": "3RS TV",
+    "sources": {
+      "streams": [
+        "https://3rstv.tonia3305.workers.dev/peanut.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3RSSinePinoy",
+    "name": "3RS SINE PINOY",
+    "sources": {
+      "streams": [
+        "https://3rssinepinoy.tonia3305.workers.dev/mochi.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3RSMovieBox",
+    "name": "3RS MOVIE BOX",
+    "sources": {
+      "streams": [
+        "https://3rsmoviebox.tonia3305.workers.dev/moon.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3RSCartoonMovies",
+    "name": "3RS CARTOON MOVIES",
+    "sources": {
+      "streams": [
+        "https://3rscartoonmovies.tonia3305.workers.dev/kolet.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
   }
+
 
 
 
