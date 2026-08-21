@@ -1680,6 +1680,34 @@
     "country": "us",
     "isGeoBlocked": false
   },
+   {
+    "nanoid": "AuthenticHistory",
+    "name": "Authentic History",
+    "sources": {
+      "streams": [
+        "https://c79f98a182af4cd79e0afe576c99cde9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticHistory/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AuthenticTravel",
+    "name": "Authentic Travel",
+    "sources": {
+      "streams": [
+        "https://2d1ef59f0ad34d14888d8abce1b99264.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticTravel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "Dylm8CBl1CT952",
     "name": "Avang TV",
