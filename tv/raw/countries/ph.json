@@ -1,4 +1,62 @@
 [
+  {
+    "nanoid": "ALLTV",
+    "name": "ALLTV",
+    "sources": {
+      "streams": [
+        "http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ANC",
+    "name": "ANC",
+    "sources": {
+      "streams": [
+        "http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AnimalPlanet",
+    "name": "Animal Planet",
+    "sources": {
+      "streams": [
+        "http://143.44.136.110:6910/001/2/ch00000090990000001335/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Animax",
+    "name": "Animax",
+    "sources": {
+      "streams": [
+        "http://143.44.136.110:6910/001/2/ch00000090990000001315/manifest.mpd?virtualDomain=001.live_hls.zte.com"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
  {
   "nanoid": "CCTN47",
   "name": "CCTN 47",
