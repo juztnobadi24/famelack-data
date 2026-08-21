@@ -1,45 +1,93 @@
 [
- {
-    "nanoid": "13thStreetDE",
-    "name": "13th Street DE",
-    "sources": {
-      "streams": [
-        "https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
   {
-    "nanoid": "A2Z",
-    "name": "A2Z",
+    "nanoid": "hbo_ph_001",
+    "name": "HBO",
     "sources": {
       "streams": [
-        "http://ott.udptv.net/stream/iptv/a2z/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664"
-      ]
+        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119476.ts"
+      ],
+      "logo": "https://i.imgur.com/eh6gerU.png"
     },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
+    "languages": ["eng", "fil"],
     "country": "ph",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ABCKABC",
-    "name": "ABC (KABC)",
+    "nanoid": "hbo_fam_002",
+    "name": "HBO Family",
     "sources": {
       "streams": [
-        "https://ott.udptv.xyz/stream/udptvus/kabc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664"
-      ]
+        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119477.ts"
+      ],
+      "logo": "https://i.imgur.com/eh6gerU.png"
     },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
+    "languages": ["eng", "fil"],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hbo_hits_003",
+    "name": "HBO Hits",
+    "sources": {
+      "streams": [
+        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119478.ts"
+      ],
+      "logo": "https://i.imgur.com/eh6gerU.png"
+    },
+    "languages": ["eng", "fil"],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hbo_sig_004",
+    "name": "HBO Signature",
+    "sources": {
+      "streams": [
+        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119479.ts"
+      ],
+      "logo": "https://i.imgur.com/eh6gerU.png"
+    },
+    "languages": ["eng", "fil"],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hist_ph_005",
+    "name": "History",
+    "sources": {
+      "streams": [
+        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119480.ts"
+      ],
+      "logo": "https://i.imgur.com/eh6gerU.png"
+    },
+    "languages": ["eng", "fil"],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hits_hd_006",
+    "name": "Hits HD",
+    "sources": {
+      "streams": [
+        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119481.ts"
+      ],
+      "logo": "https://i.imgur.com/eh6gerU.png"
+    },
+    "languages": ["eng", "fil"],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hits_mov_007",
+    "name": "HITS MOVIES",
+    "sources": {
+      "streams": [
+        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119482.ts"
+      ],
+      "logo": "https://i.imgur.com/eh6gerU.png"
+    },
+    "languages": ["eng", "fil"],
+    "country": "ph",
     "isGeoBlocked": false
   },
  {
