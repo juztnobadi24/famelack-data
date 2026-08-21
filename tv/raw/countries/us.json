@@ -2030,6 +2030,20 @@
     "country": "us",
     "isGeoBlocked": false
   },
+   {
+    "nanoid": "BBCImpossible",
+    "name": "BBC Impossible",
+    "sources": {
+      "streams": [
+        "https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "AttXnZE4Qxz0fX",
     "name": "BBC Top Gear",
@@ -2042,6 +2056,20 @@
     "languages": [],
     "country": "us",
     "isGeoBlocked": true
+  },
+   {
+    "nanoid": "BBCTopGearUS",
+    "name": "BBC Top Gear US",
+    "sources": {
+      "streams": [
+        "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "iIqAWVAiYJ7kBl",
@@ -2103,6 +2131,20 @@
     "sources": {
       "streams": [
         "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+   {
+    "nanoid": "BeinSportsXtra",
+    "name": "Bein Sports Xtra",
+    "sources": {
+      "streams": [
+        "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2299,6 +2341,20 @@
     "country": "us",
     "isGeoBlocked": true
   },
+   {
+    "nanoid": "BilliardTV",
+    "name": "Billiard TV",
+    "sources": {
+      "streams": [
+        "https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/BILLIARDTV_SCTE.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "sEp0Ko2e29iuUQ",
     "name": "Binge",
@@ -2380,6 +2436,21 @@
     "country": "us",
     "isGeoBlocked": false
   },
+   {
+    "nanoid": "BlastMovie",
+    "name": "Blast Movie",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+
   {
     "nanoid": "P22YkYkFVBIyt3",
     "name": "Bleav Football",
