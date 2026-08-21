@@ -1,95 +1,20 @@
 [
-  {
-    "nanoid": "hbo_ph_001",
-    "name": "HBO",
-    "sources": {
-      "streams": [
-        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119476.ts"
-      ],
-      "logo": "https://i.imgur.com/eh6gerU.png"
-    },
-    "languages": ["eng", "fil"],
-    "country": "ph",
-    "isGeoBlocked": false
+ {
+  "nanoid": "HBO",
+  "name": "HBiO",
+  "sources": {
+    "streams": [
+      "http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34571",
+      "http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34787",
+      "http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34918"
+    ]
   },
-  {
-    "nanoid": "hbo_fam_002",
-    "name": "HBO Family",
-    "sources": {
-      "streams": [
-        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119477.ts"
-      ],
-      "logo": "https://i.imgur.com/eh6gerU.png"
-    },
-    "languages": ["eng", "fil"],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hbo_hits_003",
-    "name": "HBO Hits",
-    "sources": {
-      "streams": [
-        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119478.ts"
-      ],
-      "logo": "https://i.imgur.com/eh6gerU.png"
-    },
-    "languages": ["eng", "fil"],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hbo_sig_004",
-    "name": "HBO Signature",
-    "sources": {
-      "streams": [
-        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119479.ts"
-      ],
-      "logo": "https://i.imgur.com/eh6gerU.png"
-    },
-    "languages": ["eng", "fil"],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hist_ph_005",
-    "name": "History",
-    "sources": {
-      "streams": [
-        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119480.ts"
-      ],
-      "logo": "https://i.imgur.com/eh6gerU.png"
-    },
-    "languages": ["eng", "fil"],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hits_hd_006",
-    "name": "Hits HD",
-    "sources": {
-      "streams": [
-        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119481.ts"
-      ],
-      "logo": "https://i.imgur.com/eh6gerU.png"
-    },
-    "languages": ["eng", "fil"],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hits_mov_007",
-    "name": "HITS MOVIES",
-    "sources": {
-      "streams": [
-        "http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119482.ts"
-      ],
-      "logo": "https://i.imgur.com/eh6gerU.png"
-    },
-    "languages": ["eng", "fil"],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
+  "languages": [
+    "eng"
+  ],
+  "country": "hk",
+  "isGeoBlocked": false
+},
  {
   "nanoid": "CCTN47",
   "name": "CCTN 47",
