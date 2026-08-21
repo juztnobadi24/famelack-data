@@ -1,7 +1,7 @@
 [
 {
   "nanoid": "jeepney-tv",
-  "name": "Jeepney TV",
+  "name": "Jeepney TV2",
   "sources": {
     "streams": [
       "https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd"
