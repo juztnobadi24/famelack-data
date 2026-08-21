@@ -73,6 +73,21 @@
     "country": "ph",
     "isGeoBlocked": false
   },
+    {
+    "nanoid": "AsiaFlixTV",
+    "name": "ASIA FLIX TV",
+    "sources": {
+      "streams": [
+        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "jJ5KY3frn8Mets",
     "name": "Bilyonaryo News Channel",
@@ -164,6 +179,36 @@
     "country": "ph",
     "isGeoBlocked": false
   },
+    {
+    "nanoid": "DreamTVPH",
+    "name": "DREAM TV PHILIPPINES",
+    "sources": {
+      "streams": [
+        "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+    {
+    "nanoid": "DurianTV",
+    "name": "DURIAN TV",
+    "sources": {
+      "streams": [
+        "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "7il1J2yhx2duaZ",
     "name": "DZMM TeleRadyo",
@@ -232,6 +277,94 @@
     },
     "languages": [
       "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+   {
+    "nanoid": "HBOFamily",
+    "name": "HBO Family",
+    "sources": {
+      "streams": [
+        "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HBOHits",
+    "name": "HBO Hits",
+    "sources": {
+      "streams": [
+        "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HBOSignature",
+    "name": "HBO Signature",
+    "sources": {
+      "streams": [
+        "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+   {
+    "nanoid": "HomePlus",
+    "name": "HOME PLUS",
+    "sources": {
+      "streams": [
+        "https://homeplushls.wns.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+
+   {
+    "nanoid": "HopeTVPH",
+    "name": "Hope TV PH",
+    "sources": {
+      "streams": [
+        "https://cdn-kr-icn.becdn.net/hcorg_ROeXKL3HV6a/s/jsl_7A1swL7Fhlh/KKYzI/audio/en/main.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+    {
+    "nanoid": "HypeTV",
+    "name": "HYPE TV",
+    "sources": {
+      "streams": [
+        "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
     ],
     "country": "ph",
     "isGeoBlocked": false
@@ -444,6 +577,21 @@
     "country": "ph",
     "isGeoBlocked": false
   },
+    {
+    "nanoid": "PhilippinesTVNet",
+    "name": "PHILIPPINES TELEVISION NETWORK",
+    "sources": {
+      "streams": [
+        "https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "wqBUypsMa0sHyi",
     "name": "Premier Football",
@@ -559,6 +707,21 @@
     "country": "ph",
     "isGeoBlocked": false
   },
+    {
+    "nanoid": "SinePlus",
+    "name": "SINE PLUS",
+    "sources": {
+      "streams": [
+        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
   {
     "nanoid": "2gkarGO4fauZPH",
     "name": "SMNI",
@@ -598,6 +761,66 @@
     "languages": [
       "eng",
       "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+    {
+    "nanoid": "SouthStarTV",
+    "name": "SOUTH STAR TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatvplayout7/giatv-211869/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+   {
+    "nanoid": "StarTV",
+    "name": "STAR TELEVISION",
+    "sources": {
+      "streams": [
+        "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+    {
+    "nanoid": "StarTVPH",
+    "name": "STAR TV PHILIPPINES",
+    "sources": {
+      "streams": [
+        "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+   {
+    "nanoid": "StarTVBroadcast",
+    "name": "STAR TELEVISION BROADCASTING STATION",
+    "sources": {
+      "streams": [
+        "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl",
+      "eng"
     ],
     "country": "ph",
     "isGeoBlocked": false
@@ -747,21 +970,7 @@
 
 
   
-  {
-    "nanoid": "StarTVBroadcast",
-    "name": "STAR TELEVISION BROADCASTING STATION",
-    "sources": {
-      "streams": [
-        "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
+ 
   {
     "nanoid": "ToonGoggles",
     "name": "TOON GOGGLES",
@@ -775,214 +984,17 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HopeTVPH",
-    "name": "Hope TV PH",
-    "sources": {
-      "streams": [
-        "https://cdn-kr-icn.becdn.net/hcorg_ROeXKL3HV6a/s/jsl_7A1swL7Fhlh/KKYzI/audio/en/main.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DurianTV",
-    "name": "DURIAN TV",
-    "sources": {
-      "streams": [
-        "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "StarTV",
-    "name": "STAR TELEVISION",
-    "sources": {
-      "streams": [
-        "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PhilippinesTVNet",
-    "name": "PHILIPPINES TELEVISION NETWORK",
-    "sources": {
-      "streams": [
-        "https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HypeTV",
-    "name": "HYPE TV",
-    "sources": {
-      "streams": [
-        "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DreamTVPH",
-    "name": "DREAM TV PHILIPPINES",
-    "sources": {
-      "streams": [
-        "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "StarTVPH",
-    "name": "STAR TV PHILIPPINES",
-    "sources": {
-      "streams": [
-        "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SinePlus",
-    "name": "SINE PLUS",
-    "sources": {
-      "streams": [
-        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AsiaFlixTV",
-    "name": "ASIA FLIX TV",
-    "sources": {
-      "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SouthStarTV",
-    "name": "SOUTH STAR TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatvplayout7/giatv-211869/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HomePlus",
-    "name": "HOME PLUS",
-    "sources": {
-      "streams": [
-        "https://homeplushls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl",
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-
-  {
-    "nanoid": "HBOFamily",
-    "name": "HBO Family",
-    "sources": {
-      "streams": [
-        "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HBOHits",
-    "name": "HBO Hits",
-    "sources": {
-      "streams": [
-        "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HBOSignature",
-    "name": "HBO Signature",
-    "sources": {
-      "streams": [
-        "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
   }
+
+ 
+
+
+
+
+
+
+
+ 
+ 
   
 ]
