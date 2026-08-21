@@ -1,5 +1,35 @@
 [
  {
+  "nanoid": "KapatidTV5",
+  "name": "Kapatid TV 5",
+  "sources": {
+    "streams": [
+      "https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8"
+    ]
+  },
+  "languages": [
+    "tgl",
+    "eng"
+  ],
+  "country": "ph",
+  "isGeoBlocked": true
+},
+   {
+    "nanoid": "r4gZbnhBhhAOr3",
+    "name": "A2Z",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/a2z/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+ {
   "nanoid": "A2Z",
   "name": "A2Z PH",
   "sources": {
