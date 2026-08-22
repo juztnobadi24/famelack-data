@@ -1,11 +1,15 @@
 [
 {
   "nanoid": "jeepney-tv",
-  "name": "Jeepney TV2",
+  "name": "Jeepney TV",
   "sources": {
     "streams": [
       "https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd"
-    ]
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/Jeepney_TV_Logo_2015.svg",
+    "drm": {
+      "dc9fec234a5841bb8d06e92042c741ec": "225676f32612dc803cb4d0f950d063d0"
+    }
   },
   "languages": [
     "tgl",
