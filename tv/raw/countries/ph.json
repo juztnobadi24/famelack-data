@@ -549,7 +549,7 @@
   },
     {
     "nanoid": "kapamilya-channel",
-    "name": "Kapamilya-Channel",
+    "name": "KapamilyaChannel",
     "sources": {
       "streams": [
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd"
@@ -562,7 +562,7 @@
     "languages": ["tgl"],
     "country": "ph",
     "isGeoBlocked": false
-  }
+  },
   {
     "nanoid": "xISD0ZxgoxP8Si",
     "name": "Kapamilya Channel",
