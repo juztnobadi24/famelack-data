@@ -1,5 +1,77 @@
 [
   {
+    "nanoid": "hbo-us-001",
+    "name": "HBO",
+    "sources": {
+      "streams": ["https://rise2the.top/aldous/1784565446/GkdSZgcR16GBWe34kQW3kA/s/cg_hbohd/default/index.mpd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
+      "drm": { "d7f3c8215a944e068b176c9d2a5f3048": "93c0a798243d6443864d1a7ff3e42c05" }
+    },
+    "languages": ["eng"],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hbo-east-us-002",
+    "name": "HBO East",
+    "sources": {
+      "streams": ["https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd"],
+      "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",
+      "drm": { "6ab1caa245e2d8cc4e26e0e1b63fe661": "22c42d7a1679f50ca4ad37b4c1ad97fe" }
+    },
+    "languages": ["eng"],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hbo-zone-us-003",
+    "name": "HBO Zone",
+    "sources": {
+      "streams": ["https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd"],
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/c/cc/HBO_Zone_2000.svg",
+      "drm": { "0b380bec87af5c16ee145bbf8cd7d65e": "edcb65d1269bd76f166d6bc56114211f" }
+    },
+    "languages": ["eng"],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hbo-comedy-us-004",
+    "name": "HBO Comedy",
+    "sources": {
+      "streams": ["https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",
+      "drm": { "217624a3983b3593ca7d1f3b01042d4f": "fecaa3486d9deef3f7f0e1a95b662cb7" }
+    },
+    "languages": ["eng"],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hbo-west-us-005",
+    "name": "HBO West",
+    "sources": {
+      "streams": ["https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd"],
+      "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",
+      "drm": { "266fed45577cd293af39165e8073bc19": "8e805607852c0606ecc553bd234d78b2" }
+    },
+    "languages": ["eng"],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "reelz-us-006",
+    "name": "REELZ Channel",
+    "sources": {
+      "streams": ["https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd"],
+      "logo": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",
+      "drm": { "2312fd39721560ea14f98caf3464195e": "93713bb73be2d8aedf3eeb898850e7d5" }
+    },
+    "languages": ["eng"],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lcQDr83GGlzSBu",
     "name": "24 Hour Free Movies",
     "sources": {
