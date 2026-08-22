@@ -18,6 +18,25 @@
   "country": "ph",
   "isGeoBlocked": false
 },
+  {
+  "nanoid": "cignal-a2z-mpd",
+  "name": "A2Z n",
+  "sources": {
+    "streams": [
+      "https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd"
+    ],
+    "logo": "https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5580-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980",
+    "drm": {
+      "f3a8c9126e544d809b312c7f5a8e6140": "43f5361983896b47ff01b4f77c5dbf3f"
+    }
+  },
+  "languages": [
+    "tgl",
+    "eng"
+  ],
+  "country": "ph",
+  "isGeoBlocked": false
+},
 
 
 
